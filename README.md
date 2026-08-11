@@ -1,0 +1,2 @@
+# .github
+Prismea organisation profile
